@@ -3,6 +3,10 @@
   "displayName": "C/C++ Compiler",
   "description": "An extension for compiling and running C/C++ code directly from Visual Studio Code.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/htungitmo420/C-Cpp-Compiler-Extension.git"
+    },
   "engines": {
     "vscode": "^1.95.3"
   },
